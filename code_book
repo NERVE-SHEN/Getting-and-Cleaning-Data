@@ -1,0 +1,128 @@
+Code book
+
+Subject (integer):the subject ID
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+
+Activity (string):the activity name
+    Walking
+    Walking_Upstairs
+    Walking_Downstairs
+    Sitting
+    Standing
+    Laying
+    
+mean of time-domain body acceleration in the X, Y and Z directions:
+        timeBodyAccMean-X
+        timeBodyAccMean-Y
+        timeBodyAccMean-Z
+        
+standard deviation of time-domain body acceleration in the X, Y and Z directions:
+        timeBodyAccStd-X
+        timeBodyAccStd-Y
+        timeBodyAccStd-Z 
+               
+mean of time-domain gravity acceleration in the X, Y and Z directions:
+        timeGravityAccMean-X
+        timeGravityAccMean-Y
+        timeGravityAccMean-Z
+        
+standard deviation of the time-domain gravity acceleration in the X, Y and Z directions:
+        timeGravityAccStd-X
+        timeGravityAccStd-Y
+        timeGravityAccStd-Z
+        
+mean of time-domain body acceleration jerk in the X, Y and Z directions:
+        timeBodyAccJerkMean-X
+        timeBodyAccJerkMean-Y
+        timeBodyAccJerkMean-Z
+        
+standard deviation of the time-domain body acceleration jerk in the X, Y and Z directions:
+        timeBodyAccJerkStd-X
+        timeBodyAccJerkStd-Y
+        timeBodyAccJerkStd-Z
+        
+mean of time-domain body angular velocity in the X, Y and Z directions:
+        timeBodyGyroMean-X
+        timeBodyGyroMean-Y
+        timeBodyGyroMean-Z
+    
+standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
+        timeBodyGyroStd-X
+        timeBodyGyroStd-Y
+        timeBodyGyroStd-Z
+        
+mean of time-domain body angular velocity jerk in the X, Y and Z directions:
+        timeBodyGyroJerkMean-X
+        timeBodyGyroJerkMean-Y
+        timeBodyGyroJerkMean-Z
+        
+standard deviation of the time-domain body angular velocity jerk in the X, Y and Z directions:
+        timeBodyGyroJerkStd-X
+        timeBodyGyroJerkStd-Y
+        timeBodyGyroJerkStd-Z
+        
+mean and standard deviation of the time-domain magnitude of body acceleration:
+        timeBodyAccMagMean
+        timeBodyAccMagStd
+        
+mean and standard deviation of the time-domain magnitude of gravity acceleration:
+        timeGravityAccMagMean
+        timeGravityAccMagStd
+        
+mean and standard deviation of the time-domain magnitude of body acceleration jerk:
+        timeBodyAccJerkMagMean
+        timeBodyAccJerkMagStd
+        
+mean and standard deviation of the time-domain magnitude of body angular velocity:
+        timeBodyGyroMagMean
+        timeBodyGyroMagStd
+        
+mean and standard deviation of the time-domain magnitude of body angular velocity jerk:
+        timeBodyGyroJerkMagMean
+        timeBodyGyroJerkMagStd
+          
+mean of frequency-domain body acceleration in the X, Y and Z directions:
+        frequencyBodyAccMean-X
+        frequencyBodyAccMean-Y
+        frequencyBodyAccMean-Z
+        
+standard deviation of the frequency-domain body acceleration in the X, Y and Z directions:
+        frequencyBodyAccStd-X
+        frequencyBodyAccStd-Y
+        frequencyBodyAccStd-Z
+         
+mean of frequency-domain body acceleration jerk in the X, Y and Z directions:
+        frequencyBodyAccJerkMean-X
+        frequencyBodyAccJerkMean-Y
+        frequencyBodyAccJerkMean-Z
+        
+standard deviation of the frequency-domain body acceleration jerk in the X, Y and Z directions:
+        frequencyBodyAccJerkStd-X
+        frequencyBodyAccJerkStd-Y
+        frequencyBodyAccJerkStd-Z
+             
+mean of frequency-domain body angular velocity in the X, Y and Z directions:
+        frequencyBodyGyroMean-X
+        frequencyBodyGyroMean-Y
+        frequencyBodyGyroMean-Z
+        
+standard deviation of the frequency-domain body angular velocity in the X, Y and Z directions:
+        frequencyBodyGyroStd-X
+        frequencyBodyGyroStd-Y
+        frequencyBodyGyroStd-Z
+        
+mean and standard deviation of the frequency components of the frequency-domain magnitude of body acceleration:
+        frequencyBodyAccMagMean
+        frequencyBodyAccMagStd
+       
+mean and standard deviation of the frequency components of the frequency-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
+        frequencyBodyAccJerkMagMean
+        frequencyBodyAccJerkMagStd
+            
+mean and standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity:
+        frequencyBodyGyroMagMean
+        frequencyBodyGyroMagStd
+        
+mean and standard deviation of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of the angular velocity in time):
+        frequencyBodyGyroJerkMagMean
+        frequencyBodyGyroJerkMagStd
